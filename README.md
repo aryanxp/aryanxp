@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 📫 How to reach me:
+- aryanp@pm.me
+- https://www.linkedin.com/in/aryan-pitliya-bbb84a175/
+
 <!--
 **aryanxp/aryanxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
