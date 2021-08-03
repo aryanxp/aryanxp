@@ -35,7 +35,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" alt="Aryanxp Spotify Playing" width="350" />](https://open.spotify.com/user/wgyzxdo5nnemyhu7sych95nk7?si=-90q9ElPQqaYeM7a_5Q6nQ&utm_source=copy-link&dl_branch=1)
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" alt="Aryanxp Spotify Playing" width="350" />](https://open.spotify.com/user/wgyzxdo5nnemyhu7sych95nk7?si=-90q9ElPQqaYeM7a_5Q6nQ&utm_source=copy-link&dl_branch=1)
 
 
 <!--
