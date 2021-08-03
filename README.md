@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 -->
 
-<img align="left" alt="Aryanxp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=false&hide_border=true&theme=blue-green" />
-<img align="right" alt="Aryanxp's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&layout=compact&hide=jupyter%20notebook&hide_border=true&card_width=250" />
+<img align="left" alt="Aryanxp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=false&hide_border=true&theme=blue-green&title_color=00FF00" />
+<img align="right" alt="Aryanxp's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&layout=compact&hide=jupyter%20notebook&hide_border=true&card_width=250&title_color=00FF00" />
 
 
 [website]: http://aryanxp.github.io/
