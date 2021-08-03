@@ -31,11 +31,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-
-### Spotify Playing 🎧
-
-[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" alt="Aryanxp Spotify Playing" width="350" />](https://open.spotify.com/user/wgyzxdo5nnemyhu7sych95nk7?si=-90q9ElPQqaYeM7a_5Q6nQ&utm_source=copy-link&dl_branch=1)
+[<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg" alt="Aryanxp Spotify Playing" width="26px" />](https://open.spotify.com/user/wgyzxdo5nnemyhu7sych95nk7?si=-90q9ElPQqaYeM7a_5Q6nQ&utm_source=copy-link&dl_branch=1)
 
 
 <!--
