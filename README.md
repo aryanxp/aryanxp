@@ -46,14 +46,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on.
 -->
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<img align="left" alt="Aryanxp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=true&hide_border=true" />
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aryanxp&show_icons=true&hide_border=true" />
- [![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryanxp)](https://github.com/aryanxp/github-readme-stats)
-
-
-</details>
 
 
 [website]: http://aryanxp.github.io/
