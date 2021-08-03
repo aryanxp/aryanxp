@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on.
 -->
 
-<img align="left" alt="Aryanxp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=true&hide_border=true" />
+<img align="left" alt="Aryanxp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=true&hide_border=true&theme=blue-green" />
 
 
 
