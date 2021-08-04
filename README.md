@@ -18,8 +18,6 @@
 
 <br />
 
----
-
 <!--
 **aryanxp/aryanxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,7 +52,7 @@ Here are some ideas to get you started:
 ## Some of my stats :bar_chart:
 
 <img src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=false&hide_border=true&theme=blue-green&title_color=00FF00"><img alt="Aryanxp's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&layout=compact&hide=jupyter%20notebook&hide_border=true&card_width=250&title_color=00FF00" />
-<a href="https://stackoverflow.com/users/story/9617417"><img src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark" height="250"></a>
+<a href="https://stackoverflow.com/users/story/9617417"><img src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark" height="200"></a>
 
 
 <!-- <img align="left" alt="Aryanxp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=false&hide_border=true&theme=blue-green&title_color=00FF00" />
