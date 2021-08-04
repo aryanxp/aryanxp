@@ -6,7 +6,7 @@
 
 
 ### Connect with me:
-<a href="https://stackoverflow.com/users/9617417/aryan-pitliya"><img align="right" src="https://stackoverflow.com/users/flair/9617417.png?theme=dark" width="208" height="58" alt="profile for Aryan Pitliya at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aryan Pitliya at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<!-- <a href="https://stackoverflow.com/users/9617417/aryan-pitliya"><img align="right" src="https://stackoverflow.com/users/flair/9617417.png?theme=dark" width="208" height="58" alt="profile for Aryan Pitliya at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aryan Pitliya at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 [<img align="left" alt="aryanxp.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Aryanxp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Aryanxp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 -->
 ## Some of my stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=false&hide_border=true&theme=blue-green&title_color=00FF00">|<img alt="Aryanxp's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&layout=compact&hide=jupyter%20notebook&hide_border=true&card_width=250&title_color=00FF00" />
-|<a href="https://stackoverflow.com/users/story/9617417"><img src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark" height="250"></a>
-|--|--|--|
+<img src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=false&hide_border=true&theme=blue-green&title_color=00FF00"><img alt="Aryanxp's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&layout=compact&hide=jupyter%20notebook&hide_border=true&card_width=250&title_color=00FF00" />
+<a href="https://stackoverflow.com/users/story/9617417"><img src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark" height="250"></a>
+
 
 <!-- <img align="left" alt="Aryanxp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=false&hide_border=true&theme=blue-green&title_color=00FF00" />
  -->
