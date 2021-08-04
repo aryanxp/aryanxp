@@ -9,7 +9,7 @@
 <!-- <a href="https://stackoverflow.com/users/9617417/aryan-pitliya"><img align="right" src="https://stackoverflow.com/users/flair/9617417.png?theme=dark" width="208" height="58" alt="profile for Aryan Pitliya at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aryan Pitliya at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
 [<img align="left" alt="aryanxp.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Aryanxp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Aryanxp | Twitter" width="22px" src="https://img.shields.io/twitter/follow/aryanxpx?label=Follow" />][twitter]
 [<img align="left" alt="Aryanxp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Aryanxp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aryanxp | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
