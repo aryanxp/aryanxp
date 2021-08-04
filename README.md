@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" src="https://komarev.com/ghpvc/?username=aryanxp&color=green&style=plastic&label=counter" /></h1><br />
 
-- 📫 CONTACT ME : [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)](aryanp@pm.me) [![Telegram](https://img.shields.io/badge/-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/aryanxpx)
+- 📫 CONTACT ME : [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)](aryanp@pm.me) [![Telegram](https://img.shields.io/badge/-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/aryanxpx)<a href="https://stackoverflow.com/users/story/9617417"><img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark" height="250"></a>
 
 <!-- <a href="https://stackoverflow.com/users/9617417/aryan-pitliya"><img align="right" src="https://stackoverflow.com/users/flair/9617417.png?theme=dark" width="208" height="58" alt="profile for Aryan Pitliya at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aryan Pitliya at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
@@ -20,7 +20,6 @@
 ## Some of my stats :bar_chart:
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=false&hide_border=true&theme=blue-green&title_color=00FF00"><img alt="Aryanxp's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&layout=compact&hide=jupyter%20notebook&hide_border=true&card_width=250&title_color=00FF00" />
-<a href="https://stackoverflow.com/users/story/9617417"><img src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark" height="250"></a>
 
 ## 💻 My Tech Stack
 
