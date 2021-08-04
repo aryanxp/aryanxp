@@ -1,62 +1,26 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there
+<h1><img width="28" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi there
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" src="https://komarev.com/ghpvc/?username=aryanxp&color=green&style=plastic&label=counter" /></h1><br />
 
-- 📫 How to reach me: aryanp@pm.me
-
-### Connect with me:
+- 📫 CONTACT ME : [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=plastic&logo=protonmail&logoColor=white)](aryanp@pm.me) [![Telegram](https://img.shields.io/badge/-2CA5E0?style=plastic&logo=telegram&logoColor=white)](https://t.me/aryanxpx)
 
 <!-- <a href="https://stackoverflow.com/users/9617417/aryan-pitliya"><img align="right" src="https://stackoverflow.com/users/flair/9617417.png?theme=dark" width="208" height="58" alt="profile for Aryan Pitliya at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aryan Pitliya at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> -->
 
-[<img align="left" alt="aryanxp.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Aryanxp | Twitter" width="22px" src="https://img.shields.io/twitter/follow/aryanxpx?label=Follow" />][twitter]
-[<img align="left" alt="Aryanxp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Aryanxp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="aryanxp.github.io" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />][website]
+[<img align="left" alt="Aryanxp | Twitter" src="https://img.shields.io/github/followers/aryanxp?label=Follow&style=social" />][twitter]
+[<img align="left" alt="Aryanxp | Twitter" src="https://img.shields.io/twitter/follow/aryanxpx?label=Follow" />][twitter]
+[<img align="left" alt="Aryanxp | LinkedIn" src="https://img.shields.io/badge/-aryanxp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryanxp" />][linkedin]
+[<img align="left" alt="Aryanxp | Instagram" src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Aryanxp Spotify Playing" width="22px" src="https://raw.githubusercontent.com/aryanxp/aryanxp/c3cb026ab860fdca09e53853408e5cd81f1e05b7/icons/spotify.svg"  />][spotify]
 [<img align="left" alt="Aryanxp | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Aryanxp | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="Aryanxp Spotify Playing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spotify.svg"  />][spotify]
 
 <br />
 
-<!--
-**aryanxp/aryanxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- ...
- ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🔭 I’m currently working on.
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
--->
-
 ## Some of my stats :bar_chart:
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=false&hide_border=true&theme=blue-green&title_color=00FF00"><img alt="Aryanxp's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&layout=compact&hide=jupyter%20notebook&hide_border=true&card_width=250&title_color=00FF00" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=false&hide_border=true&theme=blue-green&title_color=00FF00"><img alt="Aryanxp's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&layout=compact&hide=jupyter%20notebook&hide_border=true&card_width=250&title_color=00FF00" />
 <a href="https://stackoverflow.com/users/story/9617417"><img src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark" height="250"></a>
-
-<!-- <img align="left" alt="Aryanxp's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=false&hide_border=true&theme=blue-green&title_color=00FF00" />
- -->
 
 ## 💻 My Tech Stack
 
@@ -73,6 +37,7 @@ Here are some ideas to get you started:
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 [website]: http://aryanxp.github.io/
+[github]: https://github.com/aryanxp
 [twitter]: https://twitter.com/aryanxpx
 [instagram]: https://www.instagram.com/aryanxpx/
 [linkedin]: https://linkedin.com/in/aryanxp
