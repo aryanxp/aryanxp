@@ -5,10 +5,12 @@
 [<img align="left" alt="aryanxp.github.io" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />][website]
 [<img align="left" alt="Aryanxp | Twitter" src="https://img.shields.io/github/followers/aryanxp?label=Follow&style=social" />][github]
 
-<img align="right" src="https://komarev.com/ghpvc/?username=aryanxp&label=Visitors" /></h1><br /><center>
-<a href="https://stackoverflow.com/users/story/9617417"><img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark"></a>
+<img align="right" src="https://komarev.com/ghpvc/?username=aryanxp&label=Visitors" /></h1><br />
 
-<h3 align="center"> CONNECT WITH ME :</h3>
+<h3 align="center">
+<a href="https://stackoverflow.com/users/story/9617417"><img src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark"></a>
+
+CONNECT WITH ME :
 
 [![Protonmail](https://img.icons8.com/cute-clipart/64/000000/apple-mail.png)](aryanp@pm.me)
 [![Telegram](https://img.icons8.com/cute-clipart/64/000000/telegram-app.png)](https://t.me/aryanxpx)
@@ -21,7 +23,7 @@
 [![Discord](https://img.icons8.com/cute-clipart/64/000000/discord-logo.png)]()
 [![]()]()
 
-</center>
+</h3>
 
 <br />
 
