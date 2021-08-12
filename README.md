@@ -47,7 +47,7 @@ CONNECT WITH ME :
 
 <hr>
 <p align="center">
-<img src="https://raw.githubusercontent.com/aryanxp/aryanxp/081fbd24bdf705cb702f215d88015919aa3e35ba/github-contribution-grid-snake.svg" alt="snake">
+<img src="https://raw.githubusercontent.com/aryanxp/aryanxp/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 [website]: http://aryanxp.github.io/
