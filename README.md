@@ -6,7 +6,7 @@
 [<img align="left" alt="Aryanxp | Twitter" src="https://img.shields.io/github/followers/aryanxp?label=Follow&style=social" />][github]
 
 <img align="right" src="https://komarev.com/ghpvc/?username=aryanxp&label=Visitors" /></h1><br /><center>
-<a href="https://stackoverflow.com/users/story/9617417"><img src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark"></a>
+<a href="https://stackoverflow.com/users/story/9617417"><img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark"></a>
 
 <h3 align="center"> CONNECT WITH ME :</h3>
 
