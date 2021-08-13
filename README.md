@@ -20,7 +20,7 @@ CONNECT WITH ME :
 [![Spotify](https://img.icons8.com/cute-clipart/64/000000/spotify.png)](https://open.spotify.com/user/wgyzxdo5nnemyhu7sych95nk7)
 [![Instagram](https://img.icons8.com/cute-clipart/64/000000/instagram-new.png)](https://www.instagram.com/aryanxpx/)
 [![Stackoverflow](https://img.icons8.com/cute-clipart/64/000000/stackexchange.png)](https://stackoverflow.com/users/9617417/aryan-pitliya?tab=profile)
-[![Discord](https://img.icons8.com/cute-clipart/64/000000/discord-logo.png)]()
+[![Discord](https://img.icons8.com/cute-clipart/64/000000/discord-logo.png)](https://discord.gg/JrrkCJSf7p)
 [![]()]()
 
 </h3>
