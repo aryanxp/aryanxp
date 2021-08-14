@@ -29,7 +29,9 @@ CONNECT WITH ME :
 
 ## :bar_chart: Some of my stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=true&hide_border=true&theme=blue-green&title_color=00FF00"><img alt="Aryanxp's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&layout=compact&hide=jupyter%20notebook&hide_border=true&card_width=250&title_color=00FF00" /><br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=true&hide_border=true&theme=blue-green&title_color=4ee44e">
+<img alt="Aryanxp's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&layout=compact&hide=jupyter%20notebook&hide_border=true&card_width=250&title_color=4ee44e" /><br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanxp&theme=soft-green&background=black" alt="aryanxp" /></p>
 
 ## 💻 My Tech Stack
 
