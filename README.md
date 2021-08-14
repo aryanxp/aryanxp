@@ -34,7 +34,6 @@ CONNECT WITH ME :
     <td>
       
 ![Aryanxp's github stats](https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=true&hide_border=true&theme=blue-green&title_color=4ee44e)
-</td><td>
 
 ![Aryanxp's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aryanxp&theme=soft-green&background=black)
 
