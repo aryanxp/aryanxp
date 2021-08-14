@@ -37,20 +37,14 @@ CONNECT WITH ME :
 
 ![Aryanxp's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aryanxp&theme=soft-green&background=black)
 
-<!-- <img style="" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanxp&hide_border=true&theme=vision-friendly-dark" alt="aryanxp"> -->
-
 </td>
 <td>
-      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&layout=compact&hide=jupyter%20notebook&hide_border=true&card_width=250&title_color=4ee44e)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&hide_border=true&card_width=250&title_color=4ee44e&langs_count=6)]()
 
 </td>
   </tr>
 </table>
-
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=aryanxp&show_icons=true&hide_border=true&theme=blue-green&title_color=4ee44e">
-<img alt="Aryanxp's Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&layout=compact&hide=jupyter%20notebook&hide_border=true&card_width=250&title_color=4ee44e" /><br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanxp&theme=soft-green&background=black" alt="aryanxp" /></p> -->
 
 ## 💻 My Tech Stack
 
