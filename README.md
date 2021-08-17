@@ -40,7 +40,7 @@ CONNECT WITH ME :
 </td>
 <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&hide_border=true&card_width=250&title_color=4ee44e)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&hide_border=true&card_width=250&title_color=4ee44e&langs_count=10)]()
 
 </td>
   </tr>
