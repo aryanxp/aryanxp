@@ -12,7 +12,7 @@
 
 CONNECT WITH ME :
 
-[![Protonmail](https://img.icons8.com/cute-clipart/64/000000/apple-mail.png)](aryanp@pm.me)
+[![Protonmail](https://img.icons8.com/cute-clipart/64/000000/apple-mail.png)](mailto:aryanp@pm.me)
 [![Telegram](https://img.icons8.com/cute-clipart/64/000000/telegram-app.png)](https://t.me/aryanxpx)
 [![Twitter](https://img.icons8.com/cute-clipart/64/000000/twitter.png)](https://twitter.com/aryanxpx)
 [![LinkedIn](https://img.icons8.com/cute-clipart/64/000000/linkedin.png)](https://linkedin.com/in/aryanxp)
