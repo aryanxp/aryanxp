@@ -8,7 +8,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=aryanxp&label=Visitors" /></h1><br />
 
 <h3 align="center">
-<a href="https://stackoverflow.com/users/story/9617417"><img src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark"></a>
+<a href="https://stackoverflow.com/users/9617417/aryan"><img src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark"></a>
 
 CONNECT WITH ME :
 
