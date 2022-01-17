@@ -45,10 +45,10 @@ CONNECT WITH ME :
 </td>
   </tr>
 </table>
-<center>
-<h2> 💻 My Tech Stack </h2>
 
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+## 💻 My Tech Stack
+
+<!-- START OF PROFILE STACK-->
 
 | 💻 **Technology**                                                                                                                      | 🚀 **Projects**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -56,10 +56,8 @@ CONNECT WITH ME :
 | [![Jupyter](https://img.shields.io/static/v1?label=&message=Jupyter&color=white&logo=jupyter)](https://jupyter.org/)                   | [![SPP](https://img.shields.io/static/v1?label=Stock-Price-Prediction&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aryanxp/Stock-Price-Prediction) [![FaceMaskDetect](https://img.shields.io/static/v1?label=Face-Mask-Detection&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aryanxp/face-mask-detection)                                                                                                                                                                                                                                                                                                         |
 | [![REACT](https://img.shields.io/static/v1?label=&message=React.js&logo=react)](https://reactjs.org/)                                  | [![CHATHOUSE](https://img.shields.io/static/v1?label=CHATHOUSEv2&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aryanxp/CHATHOUSE-v2.0) [![COVID](https://img.shields.io/static/v1?label=COVID&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aryanxp/COVID) [![MRDb](https://img.shields.io/static/v1?label=MRDb&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aryanxp/MRDb) [![Food-ordering-website](https://img.shields.io/static/v1?label=Food-Order&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aryanxp/confusion) |
 | [![PHP](https://img.shields.io/static/v1?label=&message=php&color=blue&logo=php&logoColor=FFFFFF)](https://nodejs.org/en/)             | [![Split-money](https://img.shields.io/static/v1?label=Split-Money&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/aryanxp/Split-money-pHp_Version)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|                                                                                                                                        |
 
-</center>
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+<!-- END OF PROFILE STACK-->
 
 <hr>
 <p align="center">
