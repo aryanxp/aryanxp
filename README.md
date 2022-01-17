@@ -9,8 +9,7 @@
 
 <h3 align="center">
 <a href="https://stackoverflow.com/users/9617417/aryan"><img src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark"></a>
-
-CONNECT WITH ME :
+<br />
 
 [![Protonmail](https://img.icons8.com/cute-clipart/64/000000/apple-mail.png)](mailto:aryanp@pm.me)
 [![Telegram](https://img.icons8.com/cute-clipart/64/000000/telegram-app.png)](https://t.me/aryanxpx)
@@ -25,7 +24,6 @@ CONNECT WITH ME :
 
 </h3>
 
-<br />
 
 ## :bar_chart: Some of my stats
 
@@ -46,7 +44,7 @@ CONNECT WITH ME :
   </tr>
 </table>
 
-## 💻 My Tech Stack
+<h2 align="center"> 💻 My Tech Stack </h2>
 
 <!-- START OF PROFILE STACK-->
 
