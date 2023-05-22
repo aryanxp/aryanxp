@@ -59,7 +59,8 @@
 
 <hr>
 <p align="center">
-<img src="https://raw.githubusercontent.com/aryanxp/aryanxp/output/github-contribution-grid-snake.svg" alt="snake">
+  
+<img src="https://github.com/aryanxp/aryanxp/blob/output/github-contribution-grid-snake.gif" alt="snake">
 </p>
 
 [website]: http://aryanxp.github.io/
