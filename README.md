@@ -4,12 +4,14 @@
 
 [<img align="left" alt="aryanxp.github.io" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" />][website]
 [<img align="left" alt="Aryanxp | Twitter" src="https://img.shields.io/github/followers/aryanxp?label=Follow&style=social" />][github]
-
-<img align="right" src="https://komarev.com/ghpvc/?username=aryanxp&label=Visitors" /></h1><br />
+<img align="right" src="https://komarev.com/ghpvc/?username=aryanxp&label=Visitors" /><br />
 
 <h3 align="center">
-<a href="https://stackoverflow.com/users/9617417/aryan"><img src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark"></a>
-<br />
+ 
+<a href="https://stackoverflow.com/users/9617417/aryan"><img src="https://github-readme-stackoverflow.vercel.app/?userID=9617417&theme=dark"/></a>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+  <br />
 
 [![Protonmail](https://img.icons8.com/cute-clipart/64/000000/apple-mail.png)](mailto:aryanp@pm.me)
 [![Telegram](https://img.icons8.com/cute-clipart/64/000000/telegram-app.png)](https://t.me/aryanxpx)
