@@ -65,7 +65,7 @@
 <img src="https://github.com/aryanxp/aryanxp/blob/output/github-contribution-grid-snake.gif" alt="snake"/>
 </p>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=wgyzxdo5nnemyhu7sych95nk7&count=3)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=wgyzxdo5nnemyhu7sych95nk7&count=3)](https://open.spotify.com/user/wgyzxdo5nnemyhu7sych95nk7)
 
 [website]: http://aryanxp.github.io/
 [github]: https://github.com/aryanxp
