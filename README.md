@@ -41,9 +41,12 @@
 <td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanxp&theme=blue-green&hide_border=true&card_width=250&title_color=4ee44e&langs_count=10)]()
-<!-- Walkatime stats not updated yet
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aryanxp)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+<br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </td>
   </tr>
 </table>
