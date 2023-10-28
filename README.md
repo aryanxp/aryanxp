@@ -64,6 +64,7 @@
 
 <!-- END OF PROFILE STACK-->
 
+<image src="https://wakatime.com/share/@aryanxp/e19af10a-95a7-4318-8ffa-f3336e07d999.svg" width="800" hieght="800"></image>
 <hr>
 <p align="center">
   
